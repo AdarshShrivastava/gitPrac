@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "3db9b4a3cb46d1a186c0d536ee42cf8a"
+build_time: [525767323, 905879000]
+inputs:
+  "/Users/adarshshrivastava/udemy_Swift_prac/1.firstapp/FirstApp/ViewController.swift": [525767323, 0]
+  "/Users/adarshshrivastava/udemy_Swift_prac/1.firstapp/FirstApp/AppDelegate.swift": [525597597, 0]
